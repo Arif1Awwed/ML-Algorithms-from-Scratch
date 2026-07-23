@@ -266,9 +266,6 @@ These are the core libraries used across all notebooks:
 
 ---
 
-<div align="center">
-
-**⭐ If you found this helpful, consider giving the repo a star!**
 
 Made with ❤️ and NumPy
 
