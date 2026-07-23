@@ -37,7 +37,7 @@ Whether you're a student learning ML fundamentals, a developer preparing for int
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Requirements](#-requirements)
-- [How to Run](#-how-to-run)
+
 
 ---
 
@@ -267,6 +267,3 @@ These are the core libraries used across all notebooks:
 ---
 
 
-Made with ❤️ and NumPy
-
-</div>
